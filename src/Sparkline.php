@@ -45,7 +45,7 @@ class Sparkline
     /**
      * @var resource
      */
-    protected $file;
+    public $file;
 
     /**
      * @var array
